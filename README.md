@@ -22,7 +22,7 @@ We conducted pilot lessons with Slonig in several schools and observed remarkabl
 If you’re a developer or interested in contributing to the project’s design, you may want to explore our [technical draft white paper](https://github.com/slonigiraf/whitepaper/blob/main/slonigiraf/ENG.md). It’s a long read and still under development, so please keep that in mind when reviewing sections on tokenomics and the business model — these are early drafts and likely to be revised soon. You’re welcome to contribute by proposing improvements or changes.
 
 ## Contacts
-- Try Slonig App: https://app.slonig.org/
+- Try the Slonig App: https://app.slonig.org/
 - Our Website: https://slonig.org/
 - WhatsApp: [+382 67 887600](https://wa.me/38267887600)
 - Email: [reshetovdenis@gmail.com](mailto:reshetovdenis@gmail.com)
