@@ -11,11 +11,11 @@ Slonig solves all these problems in one solution: it includes all learning mater
 - [Backend](https://github.com/slonigiraf/slonig-node-dev)
 - [Auxiliary services](https://github.com/slonigiraf/economy.slonig.org)
 
-## Reseach paper for teachers
+## Pilot-tested in schools
 
 We conducted pilot lessons with Slonig in several schools and observed remarkable efficiency in training students to teach their peers. In most cases, just one lesson was enough to start effective peer learning. You can read more in our [research paper](https://slonig.org/assets/pdf/site.Slonig-paper.pdf).
 
-## White paper for developers
+## Technical details for developers
 
 If you’re a developer or interested in contributing to the project’s design, you may want to explore our [technical draft white paper](https://github.com/slonigiraf/whitepaper/blob/main/slonigiraf/ENG.md). It’s a long read and still under development, so please keep that in mind when reviewing sections on tokenomics and the business model — these are early drafts and likely to be revised soon. You’re welcome to contribute by proposing improvements or changes.
 
