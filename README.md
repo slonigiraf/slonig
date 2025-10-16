@@ -5,6 +5,8 @@ This document overviews the repositories required to launch the Slonig peer-tuto
 
 Slonig solves all these problems in one solution: it includes all learning materials (open for editing like Wikipedia), guides students on how to perform tutoring using a built-in algorithm, validates the quality of the process through game theory, and enables all this to happen while students talk to each other face to face in the same classroom — no more students absorbed by screens!
 
+<img alt="Image" src="https://github.com/slonigiraf/slonig/blob/main/tutoring-overview.png?raw=true" width="500">
+
 ## Slonig components
 
 - [Frontend](https://github.com/slonigiraf/apps-slonigiraf)
