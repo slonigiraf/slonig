@@ -1,7 +1,7 @@
 # Slonig - Helping Students Teach Each Other
 This document overviews the repositories required to launch the Slonig peer-tutoring app.
 
-[**Slonig**](https://app.slonig.org) is an open-source, free-to-use web platform that helps teachers make students talk more during lessons. The approach of having students talk and teach each other has been known for decades and has been shown to be one of the most powerful ways to improve educational outcomes. However, it’s challenging for teachers to organize this process: it involves complex logistics (deciding who works with whom), creating materials for such activities, and training students to effectively tutor their peers.
+[**Slonig**](https://app.slonig.org) is an open-source, free-to-use web platform that helps teachers make students talk more during lessons. The approach of having students talk and teach each other has been known for decades and has been shown to be one of the most powerful ways to improve educational outcomes ([Dietrichson et al., 2017](https://doi.org/10.3102/0034654316687036)). However, it’s challenging for teachers to organize this process: it involves complex logistics (deciding who works with whom), creating materials for such activities, and training students to effectively tutor their peers.
 
 Slonig solves all these problems in one solution: it includes all learning materials (open for editing like Wikipedia), guides students on how to perform tutoring using a built-in algorithm, validates the quality of the process through game theory, and enables all this to happen while students talk to each other face to face in the same classroom — no more students absorbed by screens!
 
