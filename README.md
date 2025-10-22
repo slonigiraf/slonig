@@ -9,7 +9,7 @@ Slonig solves all these problems in one solution: it includes all learning mater
 
 ## Slonig components
 
-- [Frontend](https://github.com/slonigiraf/apps-slonigiraf)
+- [Frontend](https://github.com/slonigiraf/slonig-frontend)
 - [Backend](https://github.com/slonigiraf/slonig-node-dev)
 - [Auxiliary services](https://github.com/slonigiraf/economy.slonig.org)
 
